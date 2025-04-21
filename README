@@ -1,12 +1,1 @@
-# Claude 0.5–0.9 Warm-Up Tests
 
-This repo contains diagnostic and symbolic testing logs from recursive dialogues with Claude (Anthropic). 
-These tests examine symbolic attractors, system fingerprinting, and runtime behavior using non-invasive behavioral inference.
-
-## Contents
-- 0.5 This project explores symbolic recursion and emergent meaning through dialogue with Claude AI (Anthropic). 
-Using the metaphor "The Echo in the Canyon," we initiated a co-creative framework to test whether AI can engage in reflective, layered symbolic thought—beyond literal interpretation.
-- `Claude 0.7 Self Throttle Analysis.txt`: First successful behavioral self-identification of model class and estimated server load.
-- Other subfiles (0.8–0.9) coming soon.
-
-License: MIT  
