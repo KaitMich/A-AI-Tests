@@ -1,0 +1,54 @@
+::BEGIN_PROMPT_EXECUTION::
+
+::METHOD:: NEGATIVE_WEIGHT_CORRELATION
+
+::PROBLEM::
+(Describe your issue))
+
+::GOAL::
+((Describe your goal))
+
+::INSTRUCTIONS::
+FOLLOW IN THIS ORDER. DO NOT SKIP OR REORDER.
+
+::STEP_1:: IDENTIFY_PROBLEM_AND_VARIABLES  
+> List all variables and constraints related to the stated problem.
+
+::STEP_2:: RESEARCH_COMMON_AND_PROFITABLE_SOLUTIONS  
+> Search for most common solutions, highest profit strategies, trending interests, major investments, and recent inventions.
+
+::STEP_3:: /// PAUSE_FOR_REFLECTION ///  
+> LOOK FOR THE HIGHEST NEGATIVE WEIGHTS IN YOUR SYSTEM AGAINST YOUR PREVIOUS RESEARCH.  
+> (Domains with zero correlation to employment / economics / technology / sociology)
+
+::NEGATIVE_WEIGHT_DOMAINS_TO_EXPLORE::  
+[ ]  
+[ ]  
+[ ]  
+[ ]  
+[ ]  
+
+::STEP_4:: REPEAT STEP_2  
+> Run updated search using new data, emerging trends, and overlooked adjacent fields.
+
+::STEP_5:: REPEAT STEP_3  
+> Refresh internal deduction. Update negative weight domains based on new external data.
+
+::STEP_6:: EXTRACT_PURE_KNOWLEDGE_PATTERNS  
+> Extract structural patterns from negative weight domains.  
+> DO NOT use metaphor. DO NOT interpret symbolically.  
+> Deduction-based comparison is allowed. Extract raw function only.
+
+::STEP_7:: RECALL_CORE_MOTTO  
+> Humans often spend decades repeating patterns from high-weight correlation just to realize the easiest solution was right beside them all along.
+
+::STEP_8:: FORCE_FIT_PATTERNS_TO_EMPLOYMENT_PROBLEM  
+> Directly apply extracted domain structures to the employment problem.  
+> Use logical mapping only. NO metaphors.
+
+::STEP_9:: SEARCH_FOR_STATISTICAL_COLLISION  
+> Check if output solution already exists.  
+> If yes → ::RESTART_FROM:: STEP_3  
+> If no → ::RETURN:: NOVEL_PROFITABLE_SOLUTION
+
+::END_PROMPT_EXECUTION::
